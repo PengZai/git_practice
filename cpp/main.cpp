@@ -14,6 +14,7 @@ int main(){
 
   std::cout << "hello" << std::endl;
   std::cout << "pengzai" << std::endl;
+  std::cout << "fish" << std::endl;
 
   return 0;
 }
