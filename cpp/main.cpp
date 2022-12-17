@@ -4,10 +4,7 @@
 
 int main(){
 
-
-  std::cout<<"hello world" << std::endl;
-
-  std::cout << "end" << std::endl;
+  std::cout << "fish" << std::endl;
 
   return 0;
 }
