@@ -12,9 +12,8 @@ T game_add(T a, T b){
 int main(){
 
 
-  std::cout<<"hello world" << std::endl;
-
-  std::cout << "end" << std::endl;
+  std::cout << "hello" << std::endl;
+  std::cout << "pengzai" << std::endl;
 
   return 0;
 }
